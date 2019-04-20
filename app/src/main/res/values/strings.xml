@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notification Channels</string>
+    <array name="sounds" >
+        <item>Pal 1</item>
+        <item>Pal 2</item>
+        <item>Pal 3</item>
+        <item>Teri Meri</item>
+    </array>
+</resources>
